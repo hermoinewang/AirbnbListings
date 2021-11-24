@@ -9,3 +9,5 @@ Q1. What type of room are found the most in listings?
 Q2. What type of room received the most annual revenue?
 Q3. What's the price of your listing?
 Q4. What's the hottest month over the year?
+
+You may find the post regarding this project at: https://medium.com/@hermoinewang/all-you-need-to-know-before-becoming-an-airbnb-host-9d2cdac324f4
